@@ -1,0 +1,6 @@
+{
+  "name": "Qythera Verification Portal",
+  "description": "Official internship credential and certificate verification portal for Qythera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
