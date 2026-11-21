@@ -32,6 +32,32 @@ export const INTERNSHIP_RECORDS: InternshipRecord[] = [
     duration: '25 September 2025 – 18 November 2025',
     status: 'Verified',
   },
+  {
+    code: 'V7P4M8K',
+    studentName: 'Vivek Patil',
+    duration: '1 June 2026 – 31 July 2026',
+    status: 'Verified',
+  },
+  {
+    code: 'Q7M4K2P',
+    studentName: 'Eshant Vidyadhar Nandurkar',
+    status: 'Verified',
+  },
+  {
+    code: 'A9X2L7C',
+    studentName: 'Navneet Shivajirao Bhaltilak',
+    status: 'Verified',
+  },
+  {
+    code: 'R4T8N2K',
+    studentName: 'Harsh Rajesh Sukhdeve',
+    status: 'Verified',
+  },
+  {
+    code: 'B7P3W9D',
+    studentName: 'Ishanay Vijay Jaisingpure',
+    status: 'Verified',
+  },
 ];
 
 export function normalizeVerificationCode(rawCode: string): string {
